@@ -7,7 +7,7 @@ other daily task help of a single voice command.
 NOTE:-This works best with windows 10. An internet connection is always required.
 Need to seperately install these modules:-
 
-1>pip install pyttsx3
+1>pip install pyttsx3 
 2>pip install SpeechRecognition
 3>pip install pywhatkit
 4>pip install PyDictionary
